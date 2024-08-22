@@ -1,3 +1,17 @@
+Source code GitHub:
+https://github.com/IvanSicaja/3_AI_Chatbot
+
+YouTube Video:
+https://www.youtube.com/watch?v=DtClZqPPPRQ
+
+LinkedIn:
+https://www.linkedin.com/in/ivan-sičaja-832682222/
+
+Instagram:
+https://www.instagram.com/_sicaja_photography/
+
+----------------------------------------------------------------------------------------------------------------
+
 Used dataset is custom created questions and answers, you can find it by name:
 questionsAnswersAndCatergoriesDatabase.json
 
