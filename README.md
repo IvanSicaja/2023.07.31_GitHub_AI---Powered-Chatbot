@@ -1,7 +1,7 @@
 🧾 🎯 **Project Title: AI-POWERED CHATBOT**  
 📅 **Project Timeline:** October 2023 – August 2024  
 🎥 YouTube Demo: [https://youtu.be/DtClZqPPPRQ](https://youtu.be/DtClZqPPPRQ?utm_source=chatgpt.com)  
-📦 GitHub Source Code: [https://github.com/IvanSicaja/2023.07.31_GitHub_AI---Powered-Chatbot](https://github.com/IvanSicaja/2023.07.31_GitHub_AI---Powered-Chatbot?utm_source=chatgpt.com)
+📦 GitHub Source Code: <https://github.com/IvanSicaja/2023.07.31_GitHub_AI---Powered-Chatbot---Full-stack>
 
 \----------------------------------------------------------------------------------------------------------------
 
