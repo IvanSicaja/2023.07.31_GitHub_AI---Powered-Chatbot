@@ -51,21 +51,21 @@ This concept is for local use only, and significantly improved **training data**
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true"
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom_AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true"
        alt="Custom AI-Powered Chatbot Preview 1"
        width="640"
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_2.png?raw=true"
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom_AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_2.png?raw=true"
        alt="Custom AI-Powered Chatbot Preview 2"
        width="640"
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_3.png?raw=true"
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom_AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_3.png?raw=true"
        alt="Custom AI-Powered Chatbot Preview 3"
        width="640"
        height="360">
@@ -85,6 +85,7 @@ This concept is for local use only, and significantly improved **training data**
 </p>
 
 ---
+
 
 
 ### 📣 Hashtags Section
