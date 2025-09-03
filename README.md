@@ -46,6 +46,47 @@ This concept is for local use only, and significantly improved **training data**
 
 **Python, Feedforward Neural Network, Natural Language Processing (NLP), SQL, Pandas, TensorFlow, Keras, Scikit-learn, Git, GitHub, Docker Desktop, Docker Hub, Kubernetes, Minikube, Namecheap, HTML, CSS, Bootstrap, JavaScript, Flask, Jinja2, Linux, Similarity search, AI Image Generation (Adobe Firefly, Playground.com)**
 
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true"
+       alt="Custom AI-Powered Chatbot Preview 1"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_2.png?raw=true"
+       alt="Custom AI-Powered Chatbot Preview 2"
+       width="640"
+       height="360">
+</p>
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2023.07.31_GitHub_Custom-AI---Powered-Chatbot---Full-Stack/blob/master/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_3.png?raw=true"
+       alt="Custom AI-Powered Chatbot Preview 3"
+       width="640"
+       height="360">
+</p>
+
+---
+
+### 🎥 Video Demonstration
+
+<p align="center">
+  <a href="https://youtu.be/DtClZqPPPRQ">
+    <img src="https://img.youtube.com/vi/DtClZqPPPRQ/0.jpg"
+         alt="Watch the demo"
+         width="640"
+         height="360">
+  </a>
+</p>
+
+---
+
+
 ### 📣 Hashtags Section
 
 **\# #chatbot #tensorflow #keras #docker #kubernetes #flask #bootstrap #javascript #nlp #sql #python #deeplearning #ai #machinelearning #feedforwardneuralnetwork #pandas #scikitlearn #git #github #dockerdesktop #dockerhub #minikube #namecheap #html #css #jinja2 #linux #aigeneration #adobefirefly #playgroundai #similaritysearch**
